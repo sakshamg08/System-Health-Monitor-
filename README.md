@@ -68,6 +68,6 @@ This project was built to reinforce Linux and shell scripting skills by solving 
 
 ## 🔗 Connect
 
-Made with 💻 by [Saksham Gupta](https://www.linkedin.com/in/your-link).  
+Made with 💻 by [Saksham Gupta](https://www.linkedin.com/in/saksham-gupta-557347248/.)  
 
 
